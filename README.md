@@ -1,3 +1,4 @@
 # Gitチュートリアル
 - git
 - master
+- fixC
