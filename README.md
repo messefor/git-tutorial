@@ -1,2 +1,3 @@
 # Gitチュートリアル
 - git
+- master
