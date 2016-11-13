@@ -2,4 +2,4 @@
 - git
 - master
 - fixC
-- feature-D
+- feature-D for new feature
